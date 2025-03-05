@@ -12,4 +12,4 @@
 - **Tools & Platforms:** `Git` `GitHub` `Hostinger`  
 
 📫 **Get in Touch:**  
-[LinkedIn](https://www.linkedin.com/in/your-profile) | [Email](mailto:your.email@example.com)
+[LinkedIn](www.linkedin.com/in/ali-abdullah-686346177) | [Email](aliabdullahpk1@gmail.com)
