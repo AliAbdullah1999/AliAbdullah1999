@@ -30,8 +30,8 @@ I'm a passionate Full-Stack Web Developer dedicated to building scalable, high-p
 - Automated Testing & CI/CD Pipelines  
 
 ## 📬 Connect With Me
-- **LinkedIn**: [Your LinkedIn Profile URL]  
-- **Email**: [Your Email Address]  
+- **LinkedIn**: www.linkedin.com/in/ali-abdullah-686346177 
+- **Email**: aliabdullahpk1@gmail.com
 
 > *Code is the blueprint of innovation, turning ideas into reality.*
 
